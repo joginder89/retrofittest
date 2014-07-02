@@ -1,0 +1,16 @@
+<resources>
+	<dimen name="leftRightMargin">25dp</dimen>
+    <dimen name="homePageImgHt">320dp</dimen>
+	<dimen name="catHeaderHeight">70dp</dimen>
+	<dimen name="homeBlockHeight">75dp</dimen>
+	<dimen name="blockDownArrowHeight">22dp</dimen>
+	<dimen name="productDetailsBlockHeight">330dp</dimen>
+	
+	<!--  Text Sizes  -->
+	<dimen name="catHeaderTextSize">52sp</dimen>
+	<dimen name="homeOffer1TS">23sp</dimen>
+	<dimen name="homeH3">20sp</dimen>
+
+	<!-- list text view -->
+	<dimen name="addmore1">560dip</dimen>
+</resources>
